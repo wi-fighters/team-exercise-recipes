@@ -100,3 +100,7 @@ Separately, each of you has 3 minutes to share:
 - How did you address them?
 - What did you enjoy about your role?
 - Share a project decision that you made and why (e.g. design decision, workflow decision, code consistency decision). Show us some code or git commands or whatever helps communicate your point :slightly_smiling_face:
+
+## Congratulations! :tada:
+
+We'll be doing more of these, so think about what worked well, and how you might like to play it differently next time... :thinking:
