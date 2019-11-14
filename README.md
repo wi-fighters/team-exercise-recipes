@@ -19,6 +19,7 @@ recipe-website/
 
 ### Checklist
 
+- everybody contributes a recipe in HTML (no CSS)
 - include a homepage that links to each separate recipe
 - make sure all team names and roles are on the homepage
 - use consistent navigation and styling across the whole site
@@ -42,7 +43,7 @@ You care about: Usability, accessibility, aesthetic.
 
 Your mission is to make your website pop :sparkles:
 Sketch some ideas on paper and discuss with your team before writing any code.
-You’re the only one who’ll write CSS for the project. Every HTML file will link to your CSS, so co-ordinate with your team to make sure their code is compatible with yours.
+You’re the main CSS author for the project, but your QA buddy may make suggestions. Every HTML file will link to your CSS, so co-ordinate with your team to make sure their code is compatible with yours.
 
 After consulting with your team, you have the final say on design decisions.
 
