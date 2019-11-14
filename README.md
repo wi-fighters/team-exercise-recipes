@@ -6,13 +6,16 @@ In small cross-functional teams, deploy a multi-page recipe website to GitHub pa
 
 ### File structure
 
-- index.html
-- recipes/
--- shakshuka.html
--- vegan-chocolate-balls.html
-- images/
--- shakshuka.jpg
--- vegan-chocolate-balls.jpg
+```text
+recipe-website/
+├── index.html
+├── recipes/
+│   ├── shakshuka.html
+│   └── vegan-chocolate-balls.html
+└── images/
+    ├── shakshuka.jpg
+    └── vegan-chocolate-balls.jpg
+```
 
 ### Checklist
 
