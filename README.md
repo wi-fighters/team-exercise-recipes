@@ -20,10 +20,10 @@ recipe-website/
 ### Checklist
 
 - everybody contributes a recipe in HTML (no CSS)
-- include a homepage that links to each separate recipe
-- make sure all team names and roles are on the homepage
-- use consistent navigation and styling across the whole site
-- deploy to GitHub Pages
+- the site has a homepage that links to each separate recipe
+- all team names and roles are on the homepage
+- every page has consistent navigation and styling
+- the site is deployed to GitHub Pages
 
 ## The team
 
