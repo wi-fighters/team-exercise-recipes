@@ -93,7 +93,7 @@ Go back to your own teams and bring back what you learned in the standup. Is the
 
 ### 15:15 - show-and-tell presentations (no slides this time please!)
 
-As a team, show us your website! :tada:
+As a team, show us your website! :astonished:
 
 Separately, each of you has 3 minutes to share:
 
