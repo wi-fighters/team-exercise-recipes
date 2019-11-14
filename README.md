@@ -53,7 +53,7 @@ You care about: Accessibility, validation, consistent code style.
 
 With attention to detail, check your team’s code quality and consistency. How will you make sure indentation is consistent on different machines? Are you using semantic HTML? Is the CSS organized and DRY? Are you all using the same head tags and navigation structure? Does your codebase feel like one consistent developer experience (DX)?
 
-Research and suggest corrections via pull request (both HTML and CSS)
+Suggest corrections via pull request (both HTML and CSS), and link to resources that explain why you're suggesting a change.
 
 After consulting with your team, you have the final say on code style decisions.
 
