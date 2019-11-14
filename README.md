@@ -59,11 +59,13 @@ After consulting with your team, you have the final say on code style decisions.
 
 ## The timeline
 
-### 9:45 - Kickoff
+### 9:45 - Kickoff (planning + starting, 1 hour)
 
-Look at everyone’s work for the recipe exercise and decide together which parts to keep for your team’s recipe book. Which structure (elements, IDs and classes) will you all stick to?
+Look at everyone’s work for the recipe exercise and decide together which parts to keep for your team’s recipe book. You can also check the solution for inspiration, but feel free to tweak it.
 
 Consider:
+
+- Which structure (elements, IDs and classes) will you all stick to? (paper could be useful here)
 - Which tasks need to be done and by whom?
 - Which tasks depend on others being done first?
 - How much time should be spent on each task?
@@ -71,7 +73,7 @@ Consider:
 
 Once you’re on the same page about those questions, get started!
 
-### 10:45 - Standup
+### 10:45 - Skill share standup (15 mins)
 
 Meet with people in other teams who are in your role (e.g. Connectors meet with connectors. Designers with designers. Diplomats with diplomats)
 
@@ -79,19 +81,19 @@ Discuss:
 - Each of you shares the plan that you have in place with your team.
 - Ask questions, share ideas, offer ways to help each other.
 
-### 11:00 - bring knowledge back to your team (quick check-in)
+### 11:00 - Team standup (15 mins)
 
-Go back to your own teams and share what you learned in the standup. Is there anything new you want to try at this point?
+Go back to your own teams and bring back what you learned in the standup. Is there anything new you want to try at this point?
 
-### 11:15 - keep working on your tasks
+### 11:15 - Keep working on tasks within your team (2.5 hrs approx)
 
-### 14:45 - team check-in
+### 14:45 - team check-in (10 mins)
 - How are you going toward your tasks?
 - What do you need to re-prioritise so you have something to present on time?
 
 ### 15:15 - show-and-tell presentations (no slides this time please!)
 
-As a team, show us your site! :tada:
+As a team, show us your website! :tada:
 
 Separately, each of you has 3 minutes to share:
 
@@ -99,7 +101,7 @@ Separately, each of you has 3 minutes to share:
 - What were the challenges of your role?
 - How did you address them?
 - What did you enjoy about your role?
-- Share a project decision that you made and why (e.g. design decision, workflow decision, code consistency decision). Show us some code or git commands or whatever helps communicate your point :slightly_smiling_face:
+- Share a project decision that you made and why (e.g. design decision, workflow decision, code consistency decision). Show us some code or git commands or screenshots, to help communicate your point, but no slides this time.
 
 ## Congratulations! :tada:
 
