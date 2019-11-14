@@ -97,11 +97,10 @@ As a team, show us your website! :tada:
 
 Separately, each of you has 3 minutes to share:
 
-- Which role did you have?
-- What were the challenges of your role?
-- How did you address them?
+- What was it like in your role? Show us some code or git commands or screenshots to help us step into your shoes.
+- What were the challenges of your role and how did you address them?
 - What did you enjoy about your role?
-- Share a project decision that you made and why (e.g. design decision, workflow decision, code consistency decision). Show us some code or git commands or screenshots, to help communicate your point, but no slides this time.
+- Share a project decision that you made and why (e.g. design decision, workflow decision, code consistency decision).
 
 ## Congratulations! :tada:
 
